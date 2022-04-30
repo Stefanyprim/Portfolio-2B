@@ -9,20 +9,25 @@ Esse é o portfólio refente ao 1° trimestre do 2° ano do ensino médio.
 * FUNDAMENTOS DE DESIGN
 * LÓGICA COMPUTACIONAL
 
-### Atividade de Fundamentos de TI - Exercícios de fixação de Sistemas Operacionais
+## Atividade de Fundamentos de TI
 
+### Exercícios de fixação de Sistemas Operacionais
 
 Essa atividade foi escolhida para o portfólio pela questão de ser uma atividade com perguntas de fixação do conteúdo de sistemas operacionais, que me ajudou a fixar mais sobre.
 
 [CLIQUE AQUI](Fundamentos_de_TI/Atividade.jpg)
 
-### Atividade de Fundamentos de design - Desenho sobre um jogo infantil com a harmonia das cores
+## Atividade de Fundamentos de design 
+
+### Desenho sobre um jogo infantil com a harmonia das cores
 
 Escolhi essa atividade para colocar por ser tranquila de fazer e porque achei bem interessante usar a harmonia das cores.
 
 [CLIQUE AQUI](Fundamentos_de_design/slides.pdf)
 
-### Atividades de Lógica computacional - Atividade PA 
+## Atividades de Lógica computacional
+
+### Atividade PA 
 
 Coloquei essa atividade por ser interessante fazer sobre PA, que era o que estávamos aprendendo em matemática
 
@@ -30,6 +35,6 @@ Coloquei essa atividade por ser interessante fazer sobre PA, que era o que está
 
 ### Atividade referente aos Números Primos
 
-Escolhi colocar essa atividade 
+Escolhi colocar essa atividade porque acho bem interessante como funciona esses códigos
 
 [CLIQUE AQUI](Logica_computacional/numerosprimos.jpg)
