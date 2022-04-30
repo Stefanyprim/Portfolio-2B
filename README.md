@@ -20,4 +20,4 @@ Essa atividade foi escolhida para o portfólio pela questão de ser uma atividad
 
 Escolhi essa atividade para colocar aqui, por ser tranquila de fazer e por ser bem interessante usar a harmonia das cores.
 
-[CLIQUE AQUI](Fundamentos_de_design/
+[CLIQUE AQUI](Fundamentos_de_design/slides.jpg)
