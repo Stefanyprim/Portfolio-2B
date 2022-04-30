@@ -18,6 +18,8 @@ Essa atividade foi escolhida para o portfólio pela questão de ser uma atividad
 
 ### Atividade de Fundamentos de design - Desenho sobre um jogo infantil com a harmonia das cores
 
-Escolhi essa atividade para colocar aqui, por ser tranquila de fazer e por ser bem interessante usar a harmonia das cores.
+Escolhi essa atividade para colocar por ser tranquila de fazer e porque achei bem interessante usar a harmonia das cores.
 
 [CLIQUE AQUI](Fundamentos_de_design/slides.pdf)
+
+### Atividades de Lógica computacional - 
