@@ -31,3 +31,5 @@ Coloquei essa atividade por ser interessante fazer sobre PA, que era o que está
 ### Atividade referente aos Números Primos
 
 Escolhi colocar essa atividade 
+
+[CLIQUE AQUI](Logica_computacional/numerosprimos.jpg)
