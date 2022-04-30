@@ -26,4 +26,4 @@ Escolhi essa atividade para colocar por ser tranquila de fazer e porque achei be
 
 Coloquei essa atividade por ser interessante fazer sobre PA, que era o que estávamos aprendendo em matemática
 
-[CLIQUE AQUI](Logica_computacional
+[CLIQUE AQUI](Logica_computacional/PA.jpg)
