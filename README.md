@@ -22,8 +22,12 @@ Escolhi essa atividade para colocar por ser tranquila de fazer e porque achei be
 
 [CLIQUE AQUI](Fundamentos_de_design/slides.pdf)
 
-### Atividades de Lógica computacional - Algoritmo com os 4 cálculos de PA 
+### Atividades de Lógica computacional - Atividade PA 
 
 Coloquei essa atividade por ser interessante fazer sobre PA, que era o que estávamos aprendendo em matemática
 
 [CLIQUE AQUI](Logica_computacional/PA.png)
+
+### Atividade referente aos Números Primos
+
+Escolhi colocar essa atividade 
