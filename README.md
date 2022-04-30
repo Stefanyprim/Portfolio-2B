@@ -11,4 +11,4 @@ Esse é o portfólio refente ao 1° trimestre do 2° ano do ensino médio.
 
 Essa atividade foi escolhida para o portfólio pela questão de ser uma atividade com perguntas de fixação do conteúdo de sistemas operacionais, que me ajudou a fixar mais sobre.
 
-[CLIQUE AQUI] "fundamentos de TI"/unnamed.jpg
+[CLIQUE AQUI] fundamentos de TI/unnamed.jpg
