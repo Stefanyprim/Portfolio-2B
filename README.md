@@ -8,3 +8,5 @@ Esse é o portfólio refente ao 1° trimestre do 2° ano do ensino médio.
 * FUNDAMENTOS DE TI
 * FUNDAMENTOS DE DESIGN
 * LÓGICA COMPUTACIONAL
+
+Essa atividade foi colocada 
