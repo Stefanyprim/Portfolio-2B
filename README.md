@@ -56,7 +56,7 @@ Coloquei essa atividade porque fizemos uma pesquisa explicando oq que era cada p
 
 Escolhi essa atividade porque tivemos que desenhar três redes interligadas por um roteador, e para cada rede tivemos que encontrar o endereço de broadcast. Sendo assim, achei bem interessante, mas pra mim foi um pouco complicado de fazer.
 
-[CLIQUE AQUI](
+[CLIQUE AQUI](https://docs.google.com/document/d/1LdAq4xS5XYpNATAhNmVaNeul5G0GN3ockx8Orotciwg/edit)
 
 ## Atividades de Lógica computacional
 
