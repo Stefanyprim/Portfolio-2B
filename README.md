@@ -3,7 +3,9 @@ Este diretório contém os trabalhos feitos durante o ensino médio técnico no 
 
 Meu nome é Stefany Prim, tenho 16 anos e estou cursando o ensino médio com curso técnico de desenvolvimento de sistemas.
 
-## Esse é o portfólio referente ao 1° trimestre do 2° ano do ensino médio.
+Esse é o portfólio referente ao 2° ano do ensino médio.
+
+## Essas são as atividades referntes ao 1° trimestre
 
 ### No meu portfolio terá as principais atividades de:
 * FUNDAMENTOS DE TI
@@ -41,7 +43,7 @@ Escolhi colocar essa atividade porque acho bem interessante como funciona esses 
 
 [CLIQUE AQUI](Logica_computacional/numerosprimos.jpg)
 
-## Esse é o portfólio referente ao 2° trimestre do 2° ano do ensino médio.
+## Essas são as atividades referntes ao 2° trimestre
 
 ## Atividade de Fundamentos de TI
 
