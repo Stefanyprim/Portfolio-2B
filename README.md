@@ -8,6 +8,7 @@ Esse é o portfólio refente ao 1° trimestre do 2° ano do ensino médio.
 * FUNDAMENTOS DE TI
 * FUNDAMENTOS DE DESIGN
 * LÓGICA COMPUTACIONAL
+* FUNDAMENTOS DE REDES DE COMPUTADORES
 
 ## Atividade de Fundamentos de TI
 
@@ -38,3 +39,29 @@ Coloquei essa atividade por ser interessante fazer sobre PA, que era o que está
 Escolhi colocar essa atividade porque acho bem interessante como funciona esses códigos
 
 [CLIQUE AQUI](Logica_computacional/numerosprimos.jpg)
+
+Esse é o portfólio refente ao 2° trimestre do 2° ano do ensino médio.
+
+## Atividade de Fundamentos de TI
+
+### Atividade de pesquisa
+
+Coloquei essa atividade porque fizemos uma pesquisa explicando oq que era cada palavra. Com isso, achei bem importante e consegui entender mais sobre cada uma delas.
+
+[CLIQUE AQUI](
+
+## Atividade de Fundamentos de Redes de Computadores
+
+### Atividade de endereço de rede a broadcast
+
+Escolhi essa atividade porque tivemos que desenhar três redes interligadas por um roteador, e para cada rede tivemos que encontrar o endereço de broadcast. Sendo assim, achei bem interessante, mas pra mim foi um pouco complicado de fazer.
+
+[CLIQUE AQUI](
+
+## Atividades de Lógica computacional
+
+### Atividade Matriz
+
+Coloquei essa atividade porque achei bem interessante fazer sobre Matriz, que era o que estávamos aprendendo em matemática nesse segundo trimestre
+
+[CLIQUE AQUI](
