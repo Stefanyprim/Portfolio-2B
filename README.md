@@ -5,7 +5,7 @@ Meu nome é Stefany Prim, tenho 16 anos e estou cursando o ensino médio com cur
 
 Esse é o portfólio referente ao 2° ano do ensino médio.
 
-## Essas são as atividades referntes ao 1° trimestre
+## Essas são as atividades referentes ao 1° trimestre
 
 ### No meu portfolio terá as principais atividades de:
 * FUNDAMENTOS DE TI
@@ -43,7 +43,7 @@ Escolhi colocar essa atividade porque acho bem interessante como funciona esses 
 
 [CLIQUE AQUI](Logica_computacional/numerosprimos.jpg)
 
-## Essas são as atividades referntes ao 2° trimestre
+## Essas são as atividades referentes ao 2° trimestre
 
 ## Atividade de Fundamentos de TI
 
