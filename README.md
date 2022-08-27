@@ -33,13 +33,13 @@ Escolhi essa atividade para colocar por ser tranquila de fazer e porque achei be
 
 ### Atividade PA 
 
-Coloquei essa atividade por ser interessante fazer sobre PA, que era o que estávamos aprendendo em matemática
+Coloquei essa atividade por ser interessante fazer sobre PA, que era o que estávamos aprendendo em matemática.
 
 [CLIQUE AQUI](Logica_computacional/PA.png)
 
 ### Atividade referente aos Números Primos
 
-Escolhi colocar essa atividade porque acho bem interessante como funciona esses códigos
+Escolhi colocar essa atividade porque acho bem interessante como funciona esses códigos.
 
 [CLIQUE AQUI](Logica_computacional/numerosprimos.jpg)
 
@@ -65,6 +65,6 @@ Escolhi essa atividade porque tivemos que desenhar três redes interligadas por 
 
 ### Atividade Matriz
 
-Coloquei essa atividade porque achei bem interessante fazer sobre Matriz, que era o que estávamos aprendendo em matemática nesse segundo trimestre
+Coloquei essa atividade porque achei bem interessante fazer sobre Matriz, que era o que estávamos aprendendo em matemática nesse segundo trimestre.
 
 [CLIQUE AQUI](Logica_computacional/Atividade_matriz.png)
