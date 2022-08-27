@@ -64,4 +64,5 @@ Escolhi essa atividade porque tivemos que desenhar três redes interligadas por 
 
 Coloquei essa atividade porque achei bem interessante fazer sobre Matriz, que era o que estávamos aprendendo em matemática nesse segundo trimestre
 
-[CLIQUE AQUI](
+[CLIQUE AQUI](Atividade_matriz.png)
+
