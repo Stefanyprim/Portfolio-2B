@@ -48,7 +48,7 @@ Esse é o portfólio refente ao 2° trimestre do 2° ano do ensino médio.
 
 Coloquei essa atividade porque fizemos uma pesquisa explicando oq que era cada palavra. Com isso, achei bem importante e consegui entender mais sobre cada uma delas.
 
-[CLIQUE AQUI](
+[CLIQUE AQUI](https://docs.google.com/document/d/16JVE_rDJuz9qKWDylK41TQTd17v3DqKnDfTHJqtO8hk/edit)
 
 ## Atividade de Fundamentos de Redes de Computadores
 
