@@ -85,7 +85,7 @@ Escolhi essa atividade porque era pra falar um pouco sobre DNS, com isso, eu pud
 
 Coloquei essa atividade pois achei ela bem divertida e dinâmica, por termos que desenhar a planta do 1 andar do bloco 5 e a localização dos roteadores do WIFI.
 
-[CLIQUE AQUI](Fundamentos_de_redes_de_computadores/qualidade_do_sinal_do_wifi)
+[CLIQUE AQUI](Fundamentos_de_redes_de_computadores/Qualidade_do_sinal_do_wifi)
 
 ## Atividade Lógica de Programação
 
