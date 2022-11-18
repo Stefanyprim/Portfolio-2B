@@ -102,3 +102,9 @@ Essa atividade foi escolhida
 Escolhi essa atividade pois achei bem legal de fazer e por ser de um tema que eu mesma pude escolher.
 
 [CLIQUE AQUI]
+
+## Atividade em Duplas
+
+### Escolhi essa atividade por ter sido feita em dupla, pois foi mais fácil e divertida de realizar, e desenvolvemos um sistema de banco de dados para um controle de estoque e vendas de uma loja que nós mesmas escolhemos.
+
+[CLIQUE AQUI]
