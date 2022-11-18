@@ -101,7 +101,7 @@ Essa atividade foi escolhida
 
 Escolhi essa atividade pois achei bem legal de fazer e por ser de um tema que eu mesma pude escolher.
 
-[CLIQUE AQUI](Fundamentos_de_Banco_de_Dados/Imagem.
+[CLIQUE AQUI](Fundamentos_de_Banco_de_Dados/Imagem.png)
 
 ## Atividade em Duplas
 
