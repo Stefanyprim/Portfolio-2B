@@ -23,7 +23,7 @@ Essa atividade foi escolhida para o portfólio pela questão de ser uma atividad
 
 [CLIQUE AQUI](Fundamentos_de_TI/Atividade.jpg)
 
-## Atividade de Fundamentos de design 
+## Atividade de Fundamentos de Design 
 
 ### Desenho sobre um jogo infantil com a harmonia das cores
 
@@ -31,7 +31,7 @@ Escolhi essa atividade para colocar por ser tranquila de fazer e porque achei be
 
 [CLIQUE AQUI](Fundamentos_de_design/slides.pdf)
 
-## Atividades de Lógica computacional
+## Atividades de Lógica Computacional
 
 ### Atividade PA 
 
@@ -63,7 +63,7 @@ Escolhi essa atividade porque tivemos que desenhar três redes interligadas por 
 
 [CLIQUE AQUI](https://docs.google.com/document/d/1LdAq4xS5XYpNATAhNmVaNeul5G0GN3ockx8Orotciwg/edit)
 
-## Atividades de Lógica computacional
+## Atividades de Lógica Computacional
 
 ### Atividade Matriz
 
@@ -76,7 +76,7 @@ Coloquei essa atividade porque achei bem interessante fazer sobre Matriz, que er
 ## Atividade de Fundamentos de Redes de Computadores
 
 
-## Atividade Lógica de programação
+## Atividade Lógica de Programação
 
 
-## Atividade de Fundamentos de banco de dados
+## Atividade de Fundamentos de Banco de Dados
