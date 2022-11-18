@@ -113,6 +113,6 @@ Escolhi essa atividade pois achei bem legal de fazer e por ser de um tema que eu
 
 ## Atividade em Duplas
 
-### Escolhi essa atividade por ter sido feita em dupla, pois foi mais fácil e divertida de realizar, e desenvolvemos um sistema de banco de dados para um controle de estoque e vendas de uma loja que nós mesmas escolhemos.
+Escolhi essa atividade por ter sido feita em dupla, pois foi mais fácil e divertida de realizar, e desenvolvemos um sistema de banco de dados para um controle de estoque e vendas de uma loja que nós mesmas escolhemos.
 
 [CLIQUE AQUI](Fundamentos_de_Banco_de_Dados/Loja.docx)
