@@ -99,7 +99,7 @@ Essa atividade foi escolhida pelo professor Jackson
 
 Escolhi essa atividade pois tivemos que criar um cadastro para um aluno e um para uma pessoa e achei bem legal, mesmo tendo um pouco de dificuldade de realizar.
 
-[CLIQUE AQUI](Logica_de_Programaçao/
+[CLIQUE AQUI](Logica_de_Programaçao/Aluno.(2).java/Pessoa.(2).java)
 
 ## Atividade de Fundamentos de Banco de Dados
 
