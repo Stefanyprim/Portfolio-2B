@@ -91,9 +91,15 @@ Coloquei essa atividade pois achei ela bem divertida e dinâmica, por termos que
 
 ### Atividade Orientação à Objetos
 
-Essa atividade foi escolhida
+Essa atividade foi escolhida pelo professor Jackson
 
 [CLIQUE AQUI](Logica_de_Programaçao/Objetos.(1).zip)
+
+### Atividade Herança
+
+Escolhi essa atividade pois tivemos que criar um cadastro para um aluno e um para uma pessoa e achei bem legal, mesmo tendo um pouco de dificuldade de realizar.
+
+[CLIQUE AQUI](Logica_de_Programaçao/
 
 ## Atividade de Fundamentos de Banco de Dados
 
