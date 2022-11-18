@@ -81,7 +81,7 @@ Escolhi essa atividade porque era pra falar um pouco sobre DNS, com isso, eu pud
 
 [CLIQUE AQUI](Fundamentos_de_redes_de_computadores/Atividade.DNS.docx)
 
-## Atividade da Qualidade do sinal do Wi-Fi
+### Atividade da Qualidade do sinal do Wi-Fi
 
 Coloquei essa atividade pois achei ela bem divertida e dinâmica, por termos que desenhar a planta do 1 andar do bloco 5 e a localização dos roteadores do WIFI.
 
@@ -111,7 +111,7 @@ Escolhi essa atividade pois achei bem legal de fazer e por ser de um tema que eu
 
 [CLIQUE AQUI](Fundamentos_de_Banco_de_Dados/Imagem.png)
 
-## Atividade em Duplas
+### Atividade em Duplas
 
 Escolhi essa atividade por ter sido feita em dupla, pois foi mais fácil e divertida de realizar, e desenvolvemos um sistema de banco de dados para um controle de estoque e vendas de uma loja que nós mesmas escolhemos.
 
