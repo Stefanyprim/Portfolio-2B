@@ -75,7 +75,15 @@ Coloquei essa atividade porque achei bem interessante fazer sobre Matriz, que er
 
 ## Atividade de Fundamentos de Redes de Computadores
 
-###
+### Atividade DNS
+
+Escolhi essa atividade porque era pra falar um pouco sobre DNS, com isso, eu pude entender mais sobre esse assunto.
+
+[CLIQUE AQUI]
+
+## Atividade da Qualidade do sinal do Wi-Fi
+
+Coloquei essa atividade pois achei ela bem divertida e dinâmica, por termos que desenhar a planta do 1 andar do bloco 5 e a localização dos roteadores do WIFI.
 
 [CLIQUE AQUI]
 
@@ -83,6 +91,7 @@ Coloquei essa atividade porque achei bem interessante fazer sobre Matriz, que er
 
 ### Atividade Orientação à Objetos
 
+Essa atividade foi escolhida
 
 [CLIQUE AQUI]
 
