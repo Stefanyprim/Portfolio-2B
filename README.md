@@ -85,7 +85,7 @@ Escolhi essa atividade porque era pra falar um pouco sobre DNS, com isso, eu pud
 
 Coloquei essa atividade pois achei ela bem divertida e dinâmica, por termos que desenhar a planta do 1 andar do bloco 5 e a localização dos roteadores do WIFI.
 
-[CLIQUE AQUI]
+[CLIQUE AQUI] https://www.figma.com/file/MANPAwQulRAsLwpqJvg6mG/Untitled?node-id=0%3A1&t=EmaiPCO17JWyEDi7-1
 
 ## Atividade Lógica de Programação
 
