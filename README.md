@@ -10,6 +10,8 @@ Esse é o portfólio referente ao 2° ano do ensino médio.
 * FUNDAMENTOS DE DESIGN
 * LÓGICA COMPUTACIONAL
 * FUNDAMENTOS DE REDES DE COMPUTADORES
+* LÓGICA DE PROGRAMAÇÃO
+* FUNDAMENTOS DE BANCO DE DADOS
 
 ## Essas são as atividades referentes ao 1° trimestre
 
@@ -68,3 +70,8 @@ Escolhi essa atividade porque tivemos que desenhar três redes interligadas por 
 Coloquei essa atividade porque achei bem interessante fazer sobre Matriz, que era o que estávamos aprendendo em matemática nesse segundo trimestre.
 
 [CLIQUE AQUI](Logica_computacional/Atividade_matriz.png)
+
+## Essas são as atividades referentes ao 3° trimestre
+
+## Atividade de Fundamentos de Redes de Computadores
+
