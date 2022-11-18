@@ -83,7 +83,7 @@ Escolhi essa atividade porque era pra falar um pouco sobre DNS, com isso, eu pud
 
 ### Atividade da Qualidade do sinal do Wi-Fi
 
-Coloquei essa atividade pois achei ela bem divertida e dinâmica, por termos que desenhar a planta do 1 andar do bloco 5 e a localização dos roteadores do WIFI.
+Coloquei essa atividade pois achei ela bem divertida e dinâmica, por termos que desenhar a planta do 1 andar e a localização dos roteadores do WIFI.
 
 [CLIQUE AQUI](Fundamentos_de_redes_de_computadores/Qualidade_do_sinal_do_wifi)
 
