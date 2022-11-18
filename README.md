@@ -91,7 +91,7 @@ Coloquei essa atividade pois achei ela bem divertida e dinâmica, por termos que
 
 ### Atividade Orientação à Objetos
 
-Essa atividade foi escolhida pelo professor Jackson
+Essa atividade foi escolhida pelo professor Jackson.
 
 [CLIQUE AQUI](Logica_de_Programaçao/Objetos.(1).zip)
 
