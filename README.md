@@ -93,7 +93,7 @@ Coloquei essa atividade pois achei ela bem divertida e dinâmica, por termos que
 
 Essa atividade foi escolhida
 
-[CLIQUE AQUI]
+[CLIQUE AQUI](Logica_de_Programaçao/Objetos.(1).zip)
 
 ## Atividade de Fundamentos de Banco de Dados
 
