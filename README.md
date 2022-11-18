@@ -79,7 +79,7 @@ Coloquei essa atividade porque achei bem interessante fazer sobre Matriz, que er
 
 Escolhi essa atividade porque era pra falar um pouco sobre DNS, com isso, eu pude entender mais sobre esse assunto.
 
-[CLIQUE AQUI]
+[CLIQUE AQUI](../Fundamentos_de_redes_de_computadores/Atividade.DNS.docx)
 
 ## Atividade da Qualidade do sinal do Wi-Fi
 
