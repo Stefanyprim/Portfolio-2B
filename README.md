@@ -75,8 +75,21 @@ Coloquei essa atividade porque achei bem interessante fazer sobre Matriz, que er
 
 ## Atividade de Fundamentos de Redes de Computadores
 
+###
+
+[CLIQUE AQUI]
 
 ## Atividade Lógica de Programação
 
+### Atividade Orientação à Objetos
+
+
+[CLIQUE AQUI]
 
 ## Atividade de Fundamentos de Banco de Dados
+
+### Atividade Modelo Entidade Relacionamento
+
+Escolhi essa atividade pois achei bem legal de fazer e por ser de um tema que eu mesma pude escolher.
+
+[CLIQUE AQUI]
